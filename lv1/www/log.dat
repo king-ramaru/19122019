@@ -1,0 +1,12 @@
+2019-12-14 09:33:11
+{"lastname":"milichenko","firstName":"vladislav","age":"18","address":"ZP City","phone_number":"0970473435","email":"mil-vlad0311@mail.ru"}
+success
+
+2019-12-14 09:34:18
+{"lastname":"","firstName":"vladislav","age":"","address":"","phone_number":"0970473435","email":"mil-vlad0311@mail.ru"}
+fail
+
+2019-12-14 09:45:49
+{"lastname":"asf","firstName":"asd","age":"124","address":"asff","phone_number":"asfff","email":"vladislavmilicenko@gmail.com"}
+success
+
