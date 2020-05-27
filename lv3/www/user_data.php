@@ -5,7 +5,6 @@ class work extends log_work{
     const server = "localhost:\home\lv3\www\DBA.FDB", login = "SYSDBA", password = "masterkey";
   
     function connect(){
-        echo "penis";
         ibase_connect(self::server,self::login,self::password) or die("connection to MySQL failed");
         
         if($this->valid_data()){
